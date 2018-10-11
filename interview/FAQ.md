@@ -25,12 +25,12 @@
 <font color="red">3、Spring Cloud</font>  
  
 <font color="red">4、MySQL优化</font>     
-   > [MySQL数据库优化的八种方式(经典必看)](https://www.jianshu.com/p/dac715a88b44)  
-   > [mysql优化,不用怕面试题了](https://blog.csdn.net/samjustin1/article/details/52314813)
+> [MySQL数据库优化的八种方式(经典必看)](https://www.jianshu.com/p/dac715a88b44)  
+> [mysql优化,不用怕面试题了](https://blog.csdn.net/samjustin1/article/details/52314813)
    
 ### 滴
 <font color="red">1、@Autowired和@Resource的区别</font>
- >答案：[参考](https://www.zhihu.com/question/39356740)
+>答案：[参考](https://www.zhihu.com/question/39356740)
  
 ### MySQL知识点
 > [MySQL 面试之必会知识点](https://www.jianshu.com/p/5052f6a454ef)  
