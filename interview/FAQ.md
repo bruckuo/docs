@@ -22,9 +22,9 @@
 2、dubbo线上配置(这问题很扯淡)
 > 答案：[精通Dubbo——Dubbo配置文件详解](https://blog.csdn.net/fuyuwei2015/article/details/72836075)  
 
-<font color="red">3、Spring Cloud</font>  
+3、Spring Cloud
  
-<font color="red">4、MySQL优化</font>     
+4、MySQL优化     
 > [MySQL数据库优化的八种方式(经典必看)](https://www.jianshu.com/p/dac715a88b44)  
 > [mysql优化,不用怕面试题了](https://blog.csdn.net/samjustin1/article/details/52314813)
    
