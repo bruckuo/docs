@@ -1,3 +1,6 @@
+## 重点(必读)
+> [方向重点](https://mp.weixin.qq.com/s/RkMxPbm8E99-rTZKmvBy6Q)
+
 ### 每日
 <font color="red">1、事物的隔离级别</font>
 >未提交读(<font color="red">Read Uncommitted</font>)：允许脏读，也就是可能读取到其他会话中未提交事务修改的数据
@@ -32,6 +35,7 @@
 ### MySQL知识点
 > [MySQL 面试之必会知识点](https://www.jianshu.com/p/5052f6a454ef)  
 > [MySQL 高性能优化实战总结](https://mp.weixin.qq.com/s/sRsJzFO9dPtKhovJNWN3Dg)  
+> [DB主从一致性架构优化4种方法](https://mp.weixin.qq.com/s/vcvlFQywsdGzsUYVWn17Gw)
 
 ### SpringCloud知识点
 > [SpringCloud实现原理图](https://www.imooc.com/article/23679)  
@@ -39,5 +43,9 @@
 ### Java知识点
 > [CompletableFuture 详解](https://www.jianshu.com/p/6f3ee90ab7d3)  
 > [Java线程池创建方式详解](https://blog.csdn.net/u011630575/article/details/51037423)   
-> [HashMap和ConcurrentHashMap详解](https://mp.weixin.qq.com/s/QhRWDFgpjQ83Yz66V_6scQ)  
+> [HashMap和ConcurrentHashMap详解](https://mp.weixin.qq.com/s/QhRWDFgpjQ83Yz66V_6scQ) 
+> [sleep()和wait()的区别](https://mp.weixin.qq.com/s/gvaksKy2ss90bsybCnajpQ)  
+> [Thread Local的原理与适用场景](https://mp.weixin.qq.com/s/2Gfk9IjIMakk3DspRYxZdQ)  
+
+  
 
