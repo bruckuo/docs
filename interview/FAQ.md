@@ -1,4 +1,4 @@
-###每优
+### 每优
 <font color="red">1、事物的隔离级别</font>
  >未提交读(<font color="red">Read Uncommitted</font>)：允许脏读，也就是可能读取到其他会话中未提交事务修改的数据
 
@@ -23,10 +23,10 @@
    > [MySQL数据库优化的八种方式(经典必看)](https://www.jianshu.com/p/dac715a88b44)  
    > [mysql优化,不用怕面试题了](https://blog.csdn.net/samjustin1/article/details/52314813)
    
-###MySQL必备知识点
+### MySQL必备知识点
 > [MySQL 面试之必会知识点](https://www.jianshu.com/p/5052f6a454ef)  
 
-###滴
+### 滴
 <font color="red">1、@Autowired和@Resource的区别</font>
 > [参考](https://www.zhihu.com/question/39356740)
  
