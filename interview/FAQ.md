@@ -32,7 +32,7 @@
 <font color="red">1、@Autowired和@Resource的区别</font>
 >答案：[参考](https://www.zhihu.com/question/39356740) 
   
-2、Executors.newFixedThreadPool(3)和Executors.newSingleThreadExecutor()区别
+2、Executors.newFixedThreadPool(1)和Executors.newSingleThreadExecutor()区别
 
 3、tomcat启动时候加载大量数据导致页面抖动问题处理  
  
