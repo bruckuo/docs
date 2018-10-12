@@ -50,7 +50,13 @@
 > [HashMap和ConcurrentHashMap详解](https://mp.weixin.qq.com/s/QhRWDFgpjQ83Yz66V_6scQ) 
 > [sleep()和wait()的区别](https://mp.weixin.qq.com/s/gvaksKy2ss90bsybCnajpQ)  
 > [Thread Local的原理与适用场景](https://mp.weixin.qq.com/s/2Gfk9IjIMakk3DspRYxZdQ)  
-> [如何合理的规划一次jvm性能调优](https://juejin.im/post/59f02f406fb9a0451869f01c)  
+> [如何合理的规划一次jvm性能调优](https://juejin.im/post/59f02f406fb9a0451869f01c)
+
+####参考文献
+> [interviews](https://github.com/kdn251/interviews)
+
+
+
 
 
   
